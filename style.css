@@ -14,9 +14,10 @@ body {
 .title-box {
     width: 500px;
 }
-.title-box img {
-    width: 235px;
+.title-box h1{
+    color: blue;
     margin-bottom: -10px;
+    font-size: 3.5rem;
 }
 .title-box p {
     color: #000;
